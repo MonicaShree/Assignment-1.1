@@ -1,0 +1,55 @@
+1. Various Sources of Big Data 
+   The various sources of big data are :
+    -  Social Media
+    -  Sensor 
+    -  Search Engines 
+    -  Public web 
+    -  Docs 
+    -  Data storage 
+
+
+
+
+
+2. 3 V's of Big Data 
+    The 3 V's of big data are 
+    - VOLUME   : The amount of data present is the volume .
+                 It is measured in Zettabytes , gigabytes . 
+
+ 
+    - VARIETY  : It is the type of data .
+                 It can be structured , unstructured or semi structured . 
+
+
+    - VELOCITY : The speed in which the data is accessible is the velocity .
+ 
+
+
+
+
+3. Horizontal Scaling and Vertical Scaling 
+     
+   Horizontal Scaling :  It is the ability to connect multiple hardware or software entities, so that they                                             work as a single logical unit. This kind of scale cannot be implemented at a moment’s notice.
+
+
+   Vertical Scaling  :  It is the ability to increase the capacity of existing hardware or software by adding resources. 
+                        The size can only get as big as the size of the server.
+
+
+
+
+4. Need and working of Hadoop 
+
+   Need of hadoop 
+    - Hadoop allows us to quickly write and test the distributed system . 
+    - It is efficient and automatically distributes the data and work across the machines . 
+    - It detects and handles failure at application level . 
+    - It is open source .      
+
+  Working of hadoop 
+   Step 1 : The user submits the job to the hadoop job client for required process . 
+   Step 2 : Now , the hadoop job client now submits it to the job tracker . the job tracker distributes it to the slaves and              monitors it . 
+   Step 3 : The job tracker executes the task as per map reduce and output of reduced function stores is stored in the output             of the file system  . 
+
+         
+    
